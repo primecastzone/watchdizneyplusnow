@@ -3,7 +3,7 @@ How to Activate Disney+ at disneyplus.com/begin: A Step-by-Step Guide
 ##################
 
 .. meta::
-   :msvalidate.01: 108BF3BCC1EC90CA1EBEFF8001FAEFEA
+   :msvalidate.01: FE216E19E94441856C00D18618ACAE7D
 
 .. image:: blank.png
    :width: 350px
