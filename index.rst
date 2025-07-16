@@ -10,7 +10,7 @@ How to Activate Disney+ at disneyplus.com/begin: A Step-by-Step Guide
    :align: center
    :height: 100px
 
-.. image:: Enter_Product_Key.png
+.. image:: Screenshot_18.png
    :width: 350px
    :align: center
    :height: 100px
